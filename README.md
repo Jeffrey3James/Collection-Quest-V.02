@@ -10,7 +10,7 @@ This repository represents a **foundational systems build**, focused on iteratin
 
 ## About This Project
 
-This project is being developed independently by an indie developer as part of an ongoing effort to build a complete action RPG / hack-and-slash experience from the ground up.
+This project is being developed independently by Jeffrey James III, an Indie Developer, as part of an ongoing effort to build a complete action RPG / hack-and-slash experience from the ground up.
 
 The focus of this stage is not content depth, but **systems clarity, responsiveness, and extensibility**.
 
@@ -96,7 +96,7 @@ This project is being built with a systems-first mindset:
 
 ## Author
 
-Indie Developer — building and iterating solo on a full action RPG / hack-and-slash pipeline.
+Jeffrey James III — building and iterating solo on a full action RPG / hack-and-slash pipeline.
 
 ---
 
