@@ -1,0 +1,12 @@
+{
+  "name": "com.ceeayestro.strothegoatutils",
+  "version": "1.0.0",
+  "displayName": "Stro The Goat Utils",
+  "description": "A set of utilities for Unity projects.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Jeffrey James",
+    "email": "you@example.com",
+    "url": "https://github.com/CeeAyeStro-James/StroTheGoatUtils.git"
+  }
+}

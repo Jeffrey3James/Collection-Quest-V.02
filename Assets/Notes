@@ -1,0 +1,24 @@
+#region Date 06202026
+Factory build order:
+
+Interface with one method:
+Created different C# classes that inhiret that factory {IE weapon factory: Toy Factory)}
+Whenever you need a factory just call the interface:
+
+
+THe fucking Clear spawned on the Editor tool doesnt work.
+
+Vector3(-25.8500004,8.53999996,7.8499999)
+
+foreach(Transform point in spawnPoints) {
+      Instantiate{
+        collectablePrefab,
+          point.rotation,
+          poinr.position,
+          transform);
+
+          Give the MonoBehavior we are going to feed into the collectable a raycast so it hovers right over ground.
+#endregion
+
+06202026
+Change the Level to hold the value of the current score and pass that value around using an event
